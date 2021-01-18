@@ -27,7 +27,6 @@ public class Ship {
     }
 
     public Ship() {
-
     }
 
     public String getName() {
